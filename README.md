@@ -1,16 +1,17 @@
-### Hi there 👋
+![Codewars rating img](https://www.codewars.com/users/module_b/badges/large)
 
-<!--
-**moduleb/moduleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Инструменты, которые использую постоянно:
++ Python
++ Django DRF, FastAPI
++ Git, GitHub
++ PostgeSQL, MySQL, SQLAlchemy | Умею проектировать базы данных, писать как сырые запросы так и работать с ORM.
++ Docker, Docker Compose
++ Linux | Диплой на сервер, настройка
 
-Here are some ideas to get you started:
+Знаком с версткой | HTML, CSS, SASS, JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Несколько моих преимуществ:
++ навык быстрой печати (300 зн./мин)
++ английский язык (B1)
++ развитые коммуникативные навыки
++ ответственность, дисциплинированность, понимание задач бизнеса
