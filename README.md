@@ -1,17 +1,18 @@
 ![Codewars rating img](https://www.codewars.com/users/module_b/badges/large)
 
-Инструменты, которые использую постоянно:
+Стек:
 + Python
 + Django DRF, FastAPI
 + Git, GitHub
-+ PostgeSQL, MySQL, SQLAlchemy | Умею проектировать базы данных, писать как сырые запросы так и работать с ORM.
++ PostgeSQL, MySQL, SQLAlchemy
 + Docker, Docker Compose
-+ Linux | Диплой на сервер, настройка
++ Linux, Command Line
 
-Знаком с версткой | HTML, CSS, SASS, JS
++ HTML, CSS, SASS, JS
 
 Несколько моих преимуществ:
 + навык быстрой печати (300 зн./мин)
++ опыт работы системным администратором
 + английский язык (B1)
 + развитые коммуникативные навыки
 + ответственность, дисциплинированность, понимание задач бизнеса
