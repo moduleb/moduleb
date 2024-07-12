@@ -4,7 +4,7 @@
 + Python
 + Django DRF, FastAPI
 + Git, GitHub
-+ PostgeSQL, MySQL, SQLAlchemy
++ PostgeSQL, MySQL, SQLAlchemy, Redis
 + Docker, Docker Compose
 + Linux, Command Line
 
