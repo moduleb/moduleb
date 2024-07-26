@@ -1,6 +1,6 @@
 
 
-### Всем мир! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
+## Всем мир! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
 Меня зовут Роман, и я Python Backend разработчик с более чем годовым опытом в области веб-разработки. В данный момент я ищу возможность присоединиться к команде, где смогу развиваться и внести свой вклад в создание кода высокого качества.
 
 ---
