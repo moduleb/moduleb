@@ -42,7 +42,7 @@
 <div align="left">
   <img src="https://www.codewars.com/users/module_b/badges/small" width="400px" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moduleb&layout=compact&theme=vision-friendly-dark" width="400px"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moduleb&layout=compact&theme=vision-friendly-dark" width="350px"  />
 </div>
 
 
