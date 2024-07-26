@@ -18,10 +18,9 @@
 [![Telegram Badge](https://img.shields.io/badge/telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/popcorn138)
 [![Email Badge](https://img.shields.io/badge/email-red?style=flat&logo=gmail&logoColor=white)](mailto:t3841@duck.ru)
 
-
 ---
 
-<h2 align="center">🛠️ Стек:</h2>
+<h2 align="left">🛠️ Стек:</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%0c584b?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -35,7 +34,7 @@
 
 ---
 
-<h2 align="center">📚 Прочитанные книги:</h2>
+<h2 align="left">📚 Прочитанные книги:</h2>
 
 | Автор | Название | Дата |
 | --- | --- | --- |
@@ -44,14 +43,14 @@
 | Никсон Робин | Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5, 6-е изд. | 2023 |
 | Тейлор Аллен Дж. | SQL для чайников, 9-е изд. | 2023 |
 
-###
+---
 
-<h2 align="center">🔥 Статистика:</h2>
+<h2 align="left">🔥 Статистика:</h2>
 
 <div align="center">
-  <img src="https://www.codewars.com/users/module_b/badges/small"  />
+  <img src="https://www.codewars.com/users/module_b/badges/small" width="400px" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moduleb&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moduleb&layout=compact&theme=vision-friendly-dark" width="400px"  />
 </div>
 
 
