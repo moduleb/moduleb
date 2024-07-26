@@ -16,7 +16,7 @@
 - :telescope: Я Python Backend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :mailbox: Как со мной связаться:
 [![Telegram Badge](https://img.shields.io/badge/telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/popcorn138)
-[![Email Badge](https://img.shields.io/badge/email-red?style=flat&logo=gmail&logoColor=white)](mailto:t3841@duck.ru)
+[![Email Badge](https://img.shields.io/badge/email-red?style=flat&logo=gmail&logoColor=white)](mailto:t3841@duck.com)
 
 ---
 
