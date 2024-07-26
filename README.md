@@ -1,26 +1,18 @@
 
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjl3anpmNWl2amo4NnJpOGV1azkzcHVleThnMW51M2pkeHAzazA1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G74LKP9zsfLInmz3H6/giphy.gif" width="100"/>
-</div>
 
-<div id="badges" align="center">
-  <a href ="https://t.me/popcorn138"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+### Всем мир! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
+Меня зовут Роман и я Python Backend разработчик с более чем годовым опытом в области веб разработки. В данный момент ищу возможность присоединиться к команде, где смогу развиваться и внесни вклад в создание кода высокого качества.
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+---
 
+#### :mailbox: Контакты:  
 
-- :telescope: Я Python Backend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :mailbox: Как со мной связаться:
 [![Telegram Badge](https://img.shields.io/badge/telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/popcorn138)
 [![Email Badge](https://img.shields.io/badge/email-red?style=flat&logo=gmail&logoColor=white)](mailto:t3841@duck.com)
 
 ---
 
-<h2 align="left">🛠️ Стек:</h2>
+#### 🛠️ Технологии:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%0c584b?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -34,7 +26,7 @@
 
 ---
 
-<h2 align="left">📚 Прочитанные книги:</h2>
+#### 📚 Прочитанные книги:
 
 | Автор | Название | Дата |
 | --- | --- | --- |
@@ -45,9 +37,9 @@
 
 ---
 
-<h2 align="left">🔥 Статистика:</h2>
+#### 🔥 Статистика:
 
-<div align="center">
+<div align="left">
   <img src="https://www.codewars.com/users/module_b/badges/small" width="400px" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moduleb&layout=compact&theme=vision-friendly-dark" width="400px"  />
