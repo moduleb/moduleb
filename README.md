@@ -7,8 +7,8 @@
 
 #### :mailbox: Контакты:  
 
-[![Telegram Badge](https://img.shields.io/badge/TELEGRAM-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/popcorn138)
-[![Email Badge](https://img.shields.io/badge/EMAIL-red?style=flat&logo=gmail&logoColor=white)](mailto:t3841@duck.com)
+[![Telegram Badge](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/popcorn138)
+[![Email Badge](https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t3841@duck.com)
 
 ---
 
