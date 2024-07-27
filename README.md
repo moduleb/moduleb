@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThhZXNzN2t4ZmlkaDg5bWZ3bzc0a3c1am5wYjl0azYyZGhkcnlreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy-downsized.gif" width=200>
 </div>
-<br>
+
 
 ###  Welcome! 👋
 
