@@ -1,9 +1,8 @@
 
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1lZjZlcjZwZDgyNXVmdDhtbG9sYmY0b3FiZG9jMTI0cmltcXE3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UA9gXDkCbKIKlLKxd/giphy.gif" width="140" align="left" hspace="10">
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;Меня зовут Роман, я Python Backend разработчик с более чем годовым опытом в области веб-разработки. В данный момент я ищу возможность присоединиться к команде, где смогу развиваться и внести свой вклад в создание кода высокого качества.
-</p>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1lZjZlcjZwZDgyNXVmdDhtbG9sYmY0b3FiZG9jMTI0cmltcXE3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UA9gXDkCbKIKlLKxd/giphy.gif" width="140">
+
+Меня зовут Роман, я Python Backend разработчик с более чем годовым опытом в области веб-разработки. В данный момент я ищу возможность присоединиться к команде, где смогу развиваться и внести свой вклад в создание кода высокого качества.
 
 ---
 
